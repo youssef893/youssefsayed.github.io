@@ -356,6 +356,7 @@ header {
 .Projects {
   background: #a4abbb;
   padding: 6rem 0;
+  width: 100%;
 }
 
 .proj-heading h1{
